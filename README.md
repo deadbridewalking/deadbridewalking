@@ -63,7 +63,7 @@ $\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&em
 
 <div align="right"> 
   
-[<img src="https://github.com/user-attachments/assets/0c98d419-aed5-4085-81a4-ca2cbf2b958a" width="252">](https://clownfies.atabook.org)[<img src="https://github.com/user-attachments/assets/06467bc8-15f0-4aab-a694-a16b69e72b4d" width="252">](https://letsdepend.straw.page)[<img src="https://github.com/user-attachments/assets/ce54eddd-406e-4ec5-af60-9616484936b4" width="252">](https://pronouns.cc/@merisz)<br/>
+[<img src="https://github.com/user-attachments/assets/0c98d419-aed5-4085-81a4-ca2cbf2b958a" width="230">](https://clownfies.atabook.org)[<img src="https://github.com/user-attachments/assets/06467bc8-15f0-4aab-a694-a16b69e72b4d" width="230">](https://letsdepend.straw.page)[<img src="https://github.com/user-attachments/assets/ce54eddd-406e-4ec5-af60-9616484936b4" width="230">](https://pronouns.cc/@merisz)<br/>
 
 
 
