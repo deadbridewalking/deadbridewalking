@@ -7,14 +7,15 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=clownfies&style=flat-square&color=fcdee2&ffffff&label=take+a+seat+.+.)
+![Profile Views](https://komarev.com/ghpvc/?username=clownfies&style=flat-square&color=900d09&ffffff&label=take+a+seat+.+.)
 
 &nbsp;
 &nbsp;
 
 <div align="center">
   
-<img width="337" height="47" alt="IMG_0012" src="https://github.com/user-attachments/assets/ca522318-37d7-42ff-94d4-6f8ce40ba730" />
+<img width="1000" height="85" alt="image" src="https://github.com/user-attachments/assets/1cc68347-c5d9-453e-a97a-b2393f492012" />
+
 
 &nbsp;
 &nbsp;
@@ -41,8 +42,6 @@ $\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&em
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 <div align="left">
@@ -60,7 +59,7 @@ $\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&em
 
 &emsp;&emsp; $\color{pink}{\textsf{merisz}}$ &nbsp; $\color{white}{\text{or}}$ &nbsp; $\color{pink}{\text{mer mer}}$ &emsp; $\color{white}{\textsf{Ი ᰍ ݃ ݁ᣟ݂}}$&emsp; $\color{pink}{\textsf{17}}$  &emsp;<img width="20" height="20" alt="IMG_0013" src="https://github.com/user-attachments/assets/4b625948-efd0-4904-bca6-1a36b422305a"><br/>
 &nbsp; $\color{pink}{\textsf{any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;they&emsp;}}$ <br/>
-&emsp;&emsp;&emsp; ${\color{#FF8FAB}always &emsp; c&nbsp;*&nbsp;h &emsp; welcome}$ &emsp; $${\color{#F25278}w2i}$$
+&emsp;&emsp; ${\color{#FF8FAB}always &emsp; c&nbsp;*&nbsp;h &emsp; welcome}$ &emsp; $${\color{#F25278}w2i}$$
 
 <div align="right"> 
   
@@ -82,7 +81,7 @@ $\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&em
 
 <div align="center">
   
-<img width="332" height="47" alt="IMG_0012" src="https://github.com/user-attachments/assets/ca522318-37d7-42ff-94d4-6f8ce40ba730" />
+<img width="1000" height="85" alt="image" src="https://github.com/user-attachments/assets/1cc68347-c5d9-453e-a97a-b2393f492012" />
 
 &emsp;
 &emsp;
