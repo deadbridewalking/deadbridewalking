@@ -56,7 +56,7 @@ $\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&em
 &emsp;
 &emsp;
 
-<div align="left">
+<div align="center">
 
 &emsp;&emsp; $\color{pink}{\textsf{merisz}}$ &nbsp; $\color{white}{\text{or}}$ &nbsp; $\color{pink}{\text{mer mer}}$ &emsp; $\color{white}{\textsf{Ი ᰍ ݃ ݁ᣟ݂}}$&emsp; $\color{pink}{\textsf{17}}$  &emsp;<img width="20" height="20" alt="IMG_0013" src="https://github.com/user-attachments/assets/4b625948-efd0-4904-bca6-1a36b422305a"><br/>
 &nbsp; $\color{pink}{\textsf{any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;they&emsp;}}$ <br/>
