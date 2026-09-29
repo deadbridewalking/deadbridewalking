@@ -24,7 +24,8 @@
 <div align="center">
   
 
-<img width="1832" height="1228" alt="ไม่มีชื่อ 257_20260929200549" src="https://github.com/user-attachments/assets/8a7f6f64-fc6b-46a2-9f92-e421f9c1109d" />
+<img width="1280" height="720" alt="Untitled270_20260929201152" src="https://github.com/user-attachments/assets/e5f4d3cf-62c8-405a-8861-84f29cee8b54" />
+
 
        
 &nbsp;
@@ -88,7 +89,8 @@ $\color{purple}{\textsf{ashswagg&emsp;of&emsp;pt&emsp;title}}$
 
 <div align="center"> 
 
-<img width="1832" height="1228" alt="ไม่มีชื่อ 257_20260929200609" src="https://github.com/user-attachments/assets/dece551a-bfed-4c66-9c78-10a1fa1c48d3" />
+<img width="1280" height="720" alt="Untitled270_20260929201205" src="https://github.com/user-attachments/assets/be5adfd0-320c-472f-b896-29f59dea310e" />
+
 
 
 <br/>
