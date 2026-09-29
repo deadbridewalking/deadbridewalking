@@ -23,13 +23,15 @@
 
 <div align="center">
   
-<img width="1980" height="1080" alt="ไม่มีชื่อ 263_20260720162344" src="https://github.com/user-attachments/assets/4728cb7f-ef68-4885-a37a-4662ba02438c">
+
+<img width="1832" height="1228" alt="ไม่มีชื่อ 257_20260929200549" src="https://github.com/user-attachments/assets/8a7f6f64-fc6b-46a2-9f92-e421f9c1109d" />
+
        
 &nbsp;
      
 <div align="center">
   
-$\small{\textsf{ac : ellidea on x}}$
+$\small{\textsf{ac : TamNhu7109 on x , ty oomf.. }}$
 
 &nbsp;
 
@@ -79,6 +81,14 @@ $\color{purple}{\textsf{ashswagg&emsp;of&emsp;pt&emsp;title}}$
   
 [<img src="https://github.com/user-attachments/assets/0c98d419-aed5-4085-81a4-ca2cbf2b958a" width="230">](https://clownfies.atabook.org)[<img src="https://github.com/user-attachments/assets/06467bc8-15f0-4aab-a694-a16b69e72b4d" width="230">](https://letsdepend.straw.page)[<img src="https://github.com/user-attachments/assets/ce54eddd-406e-4ec5-af60-9616484936b4" width="230">](https://pronouns.cc/@merisz)<br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align="center"> 
+
+<img width="1832" height="1228" alt="ไม่มีชื่อ 257_20260929200609" src="https://github.com/user-attachments/assets/dece551a-bfed-4c66-9c78-10a1fa1c48d3" />
 
 
 <br/>
