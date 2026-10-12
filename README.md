@@ -8,7 +8,7 @@
 <div align="center">
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=clownfies&style=flat-square&color=900d09&ffffff&label=take+a+seat+.+.)
+![Profile Views](https://komarev.com/ghpvc/?username=clownfies&style=flat-square&color=900d09&ffffff&label=ashP+believers.)
 
 &nbsp;
 &nbsp;
